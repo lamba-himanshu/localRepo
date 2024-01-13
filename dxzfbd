@@ -1,0 +1,14 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 6b0fae5..cd0dc82 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,7 +1,7 @@[m
+ <html> [m
+     <body>[m
+[31m-        <div style="background-color: red; width: 200px; height: 200px; border-bottom:10px;">[m
+[31m-        [m
+[32m+[m[32m        <div style="background-color: red; width: 200px; height: 200px; padding:20px;">[m
+[32m+[m
+         </div>[m
+         <div style="background-color: blue; width: 200px; height: 200px;">[m
+ [m
